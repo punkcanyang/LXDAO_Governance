@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="egKwXpuhW8dwkSk81uhf" name="季度运行">
-    <mxGraphModel dx="1026" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,40 +177,40 @@
           <mxGeometry x="41" y="350" width="1200" height="584" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-2" value="First Month" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#82DCF5;gradientColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="410" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="103" y="123.62" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-3" value="Second Month" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#16B8E8;gradientColor=#16B8E8;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="513" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="206" y="123.62" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-4" value="Third Month" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#82DCF5;gradientColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="616" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="309" y="123.62" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-5" value="Fourth Month" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#16B8E8;gradientColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="719" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="412" y="123.62" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-6" value="Fifth Month" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#82DCF5;gradientColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="822" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="515" y="123.62" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-7" value="Sixth Month" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#16B8E8;gradientColor=#16B8E8;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="925" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="618" y="123.62" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YqxbawzT1fbWh-mP7ACd-8" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;rounded=1;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#82DCF5;gradientColor=#16B8E8;rotation=90;strokeColor=#82DCF5;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="554.25" y="-63.75" width="18.5" height="305" as="geometry" />
+          <mxGeometry x="247.25" y="-50.129999999999995" width="18.5" height="305" as="geometry" />
         </mxCell>
         <mxCell id="_OmjOfTmcwcIvDo5B5-I-1" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;rounded=1;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#82DCF5;gradientColor=#16B8E8;rotation=-90;strokeColor=#16B8E8;horizontal=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="709.13" y="-127.62" width="18.5" height="614.25" as="geometry" />
+          <mxGeometry x="402.13" y="-114" width="18.5" height="614.25" as="geometry" />
         </mxCell>
         <mxCell id="Xqqso5AAWyVlsxrcv6lz-1" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFont&amp;quot;; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Minor Season&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="498" y="40" width="130" height="30" as="geometry" />
+          <mxGeometry x="191" y="53.620000000000005" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xqqso5AAWyVlsxrcv6lz-2" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFont&amp;quot;; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Major Season&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="643.38" y="200" width="150" height="30" as="geometry" />
+          <mxGeometry x="336.38" y="213.62" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xqqso5AAWyVlsxrcv6lz-3" value="&lt;b&gt;Strategy Meeting&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#00CCCC;" vertex="1" parent="1">
-          <mxGeometry x="924" y="159.51" width="108" height="40" as="geometry" />
+          <mxGeometry x="617" y="173.13" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xqqso5AAWyVlsxrcv6lz-4" value="&lt;b&gt;Summarize Meeting&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#00CCCC;" vertex="1" parent="1">
-          <mxGeometry x="597.63" y="80" width="130" height="40" as="geometry" />
+          <mxGeometry x="290.63" y="93.62" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
