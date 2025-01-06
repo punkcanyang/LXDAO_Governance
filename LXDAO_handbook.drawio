@@ -64,9 +64,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVdRPyiBlJrQDBBSAaSF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="qVdRPyiBlJrQDBBSAaSF-2" target="qVdRPyiBlJrQDBBSAaSF-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qVdRPyiBlJrQDBBSAaSF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;strokeColor=#3399FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVdRPyiBlJrQDBBSAaSF-2" target="qVdRPyiBlJrQDBBSAaSF-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-550" y="350" as="sourcePoint" />
@@ -89,9 +86,6 @@
         </mxCell>
         <mxCell id="qVdRPyiBlJrQDBBSAaSF-7" value="Virtual Group" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#82DCF5;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=#16B8E8;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-511.75" y="420" width="101.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qVdRPyiBlJrQDBBSAaSF-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#82DCF5;gradientColor=#16B8E8;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="170" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qVdRPyiBlJrQDBBSAaSF-10" value="Stuff gets done" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=#00CCCC;" vertex="1" parent="1">
           <mxGeometry x="-620" y="490" width="90" height="30" as="geometry" />
